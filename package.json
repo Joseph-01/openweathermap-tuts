@@ -1,0 +1,22 @@
+{
+  "name": "openweathermap-tuts",
+  "version": "1.0.0",
+  "description": "open weather map tutorials",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joseph-01/openweathermap-tuts.git"
+  },
+  "author": "softjoe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Joseph-01/openweathermap-tuts/issues"
+  },
+  "homepage": "https://github.com/Joseph-01/openweathermap-tuts#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
